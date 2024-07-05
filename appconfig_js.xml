@@ -3,7 +3,7 @@
 <config>
     <profile>vkIsland</profile>
     <socialNetwork>vkontakte</socialNetwork>
-    <clientLogUrl>#</clientLogUrl>
+    <clientLogUrl></clientLogUrl>
     <allowedIds></allowedIds>
     <production>true</production>
     <locale>ru</locale>
